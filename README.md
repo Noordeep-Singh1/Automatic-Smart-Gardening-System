@@ -54,16 +54,13 @@ An Arduino-based automatic gardening system that monitors soil moisture and cont
 ## Author
 Noor
 
-## 📸 Project Gallery
-
 ### Complete Automatic Smart Gardening System
 
-![Complete Smart Gardening System](smart-gardening-system.jpg)
+![Complete Smart Gardening System](Smart-gardening-system.jpg)
 
 ### Electronic Components
 
 ![Electronic Components](electronic-components.jpg)
-
 
 ## License
 No license selected yet.

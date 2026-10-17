@@ -56,11 +56,11 @@ Noor
 
 ### Complete Automatic Smart Gardening System
 
-![Complete Smart Gardening System](Smart-gardening-system.jpg)
+![Complete Smart Gardening System](Smart-gardening-system.jpeg)
 
 ### Electronic Components
 
-![Electronic Components](electronic-components.jpg)
+![Electronic Components](electronic-components.jpeg)
 
 ## License
 No license selected yet.
